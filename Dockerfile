@@ -5,4 +5,4 @@ RUN apt-get update && apt-get install -y \
         g++ \
         make \
         valgrind \
-        zlib-dev
+        zlib1g-dev
