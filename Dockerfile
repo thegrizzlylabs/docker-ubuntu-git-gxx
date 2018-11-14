@@ -7,3 +7,9 @@ RUN apt-get update && apt-get install -y \
         clang \
         curl \
         emacs \
+        libtool \
+        autogen \
+        m4 \
+        autoconf \
+        pkg-config \
+        
