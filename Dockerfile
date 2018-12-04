@@ -12,4 +12,4 @@ RUN apt-get update && apt-get install -y \
         m4 \
         autoconf \
         pkg-config \
-        
+        cmake
